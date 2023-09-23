@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
     fun setAlarmTime(hour:Int,minute:Int){
         //cardView.visibility=View.GONE
 
