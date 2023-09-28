@@ -151,7 +151,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Cancel Alarm"
-                            app:icon="@drawable/baseline_add_alarm_24" />
+                            app:icon="@drawable/baseline_add_alarm_24"
+                            android:id="@+id/cancel"/>
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
